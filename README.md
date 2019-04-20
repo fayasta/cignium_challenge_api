@@ -20,14 +20,14 @@ I) Install JAVA
 
 II) Install MAVEN
 
-  1. Download Maven Binary zip archive from https://maven.apache.org/download.cgi
-  2. Unzip the binary and save it in a folder.
-  3. Set the environment variable
-  4. Go to your machine settings
-    * In System variables, add: MAVEN_HOME D:\Maven\apache-maven-3.5.4 (Example of Maven location)
-    * User variables for YourUser, edit *Path* variable and add --> %MAVEN_HOME%\bin
-  5. To verify the installation, open the terminal and run the following commands: 
-    * mvn -version
+1. Download Maven Binary zip archive from https://maven.apache.org/download.cgi
+2. Unzip the binary and save it in a folder.
+3. Set the environment variable
+4. Go to your machine settings
+  * In System variables, add: MAVEN_HOME D:\Maven\apache-maven-3.5.4 (Example of Maven location)
+  * User variables for YourUser, edit *Path* variable and add --> %MAVEN_HOME%\bin
+5. To verify the installation, open the terminal and run the following commands: 
+  * mvn -version
     
  III) Install Git
    1. Install gitbhub from https://git-scm.com/download/win
