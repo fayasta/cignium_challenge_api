@@ -33,7 +33,6 @@ II) Install MAVEN
    1. Install gitbhub from https://git-scm.com/download/win
    2. Clone the repository: git clone https://github.com/fayasta/rest_api.git
  
- ===============
  RUN THE PROJECT
  ===============
  
