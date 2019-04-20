@@ -37,6 +37,6 @@ II) Install MAVEN
  ===============
  
   1. Open Eclipse IDE and import the project
-  2. Go to src/test/java/GetRequests/TestResponses.java class 
-  3. Right Click and run as JUnit Test
+  2. Go to ```src/test/java/GetRequests/TestResponses.java class``` 
+  3. Right Click and run as ```JUnit Test```
  
