@@ -1,22 +1,22 @@
 # cignium_challenge
 This repository contains the challenge code.
 
-REST API Challenge
-===========================================
+# REST API Challenge
+
 STEPS TO INSTALL AND SET UP THE ENVIRONMENT
 ===========================================
 
 I) Install JAVA
 
-# Install Java SDK https://www.oracle.com/technetwork/java/javaee/downloads/jdk8-downloads-2133151.html 
-# Select the correct SDK based on the operating system
-# Set the environment variable
-# Go to your machine settings
-## In System variables, add: JAVA_HOME C:\Program Files\Java\jdk1.8.0_201 (Example of Java location)
-## User variables for YourUser, edit *Path* variable and add --> %JAVA_HOME%\bin
-# To verify the installation, open the terminal and run the following commands: 
-## java -version
-## javac
+1. Install Java SDK https://www.oracle.com/technetwork/java/javaee/downloads/jdk8-downloads-2133151.html 
+2. Select the correct SDK based on the operating system
+3. Set the environment variable
+4. Go to your machine settings
+- In System variables, add: JAVA_HOME C:\Program Files\Java\jdk1.8.0_201 (Example of Java location)
+- User variables for YourUser, edit *Path* variable and add --> %JAVA_HOME%\bin
+5. To verify the installation, open the terminal and run the following commands: 
+- java -version
+ javac
 
 II) Install MAVEN
 
