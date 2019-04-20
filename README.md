@@ -1,2 +1,2 @@
-# rest_api
-RestAPI AutomationFramework
+# cignium_challenge
+This repository contains the challenge code.
